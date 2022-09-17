@@ -1,0 +1,9 @@
+repos:
+  - url: git@github.com:raminou/mbin.git
+    dest: mbin
+
+  - url: git@github.com:raminou/nvim_config.git
+    dest: nvim_config
+
+  - url: git@github.com:raminou/mgrep.git
+    dest: mgrep
